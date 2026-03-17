@@ -37,7 +37,7 @@ EverReach 的使命很简单，但又很大胆：**打破 AI 的象牙塔**。
 
 #### 🍿 有趣的事实
 
-- EverReach 的名字灵感来自于一个简单的想法：让每个人都能 reach AI，AI 也能 reach 每个人
+- EveryReach 的名字灵感来自于一个简单的想法：让每个人都能 reach AI，AI 也能 reach 每个人
 - 我们相信最好的代码注释是能让你的奶奶也能理解的解释
 
 #### 🧙 Markdown 的力量
@@ -58,7 +58,7 @@ EverReach 的使命很简单，但又很大胆：**打破 AI 的象牙塔**。
 
 #### 📖 About Us
 
-EverReach's mission is simple, yet bold: **Break AI out of its ivory tower**.
+EveryReach's mission is simple, yet bold: **Break AI out of its ivory tower**.
 
 We believe:
 
